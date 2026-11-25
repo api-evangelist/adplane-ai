@@ -66,7 +66,7 @@
 
 Adplane enables users to run all their Google, Meta, Microsoft, and TikTok advertising campaigns through a conversational interface powered by Claude or ChatGPT. By connecting multiple ad accounts to a single chat, users can ask questions, retrieve reports, adjust budgets, and make campaign changes in real time, all after a one‑click sign‑in. The platform offers a free trial and a $9.95 per month plan.
 
-**Areas:** Ads · AI · ChatGPT · Claude · Marketing Automation · Ad Management
+**Areas:** Ads · Artificial Intelligence · ChatGPT · Claude · Marketing Automation · Ad Management
 
 ## Adplane on APIs.io
 
@@ -80,18 +80,24 @@ Everything profiled for Adplane is published on APIs.io rather than in this repo
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [adplane-ai-mcp.yml](https://apis.io/servers/adplane-ai/adplane-ai-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adplane Ai Authentication](https://apis.io/security/adplane-ai/adplane-ai-authentication/)
-- [Adplane Ai Domain Security](https://apis.io/security/adplane-ai/adplane-ai-domain-security/)
+- [Adplane Authentication](https://apis.io/security/adplane-ai/adplane-ai-authentication/)
+- [Adplane Domain Security](https://apis.io/security/adplane-ai/adplane-ai-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Adplane Ai Scopes](https://apis.io/scopes/adplane-ai/adplane-ai-scopes/)
+- [Adplane Scopes](https://apis.io/scopes/adplane-ai/adplane-ai-scopes/)
 
 ## Where to find this API
 
@@ -107,18 +113,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 25.4** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 23.9** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 56.7 |
+| Discoverability | 63.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 10.5 |
+| Operational transparency | 0.0 |
 | Developer ergonomics | 38.1 |
 | Access clarity | 44.7 |
 
-**Agent readiness 24.7** — agent-aware
+**Agent readiness 24.5** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -143,8 +149,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adplane-ai/](https://apis.io/providers/adplane-ai/).
 
